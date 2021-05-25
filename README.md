@@ -9,6 +9,6 @@ But I don't want to limit myself to that so I keep an eye on HTML, Java and C++ 
 
 🀄 I would obviously love to make a job out of it one day, but let's keep it simple for now ! 
 
-I can't wit to learn some more...
-
 ✨✨✨✨✨✨✨✨✨✨✨✨✨
+
+I can't wait to learn some more...
