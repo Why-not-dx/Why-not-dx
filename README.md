@@ -1,14 +1,5 @@
-Hello, I’m Anthony or @Why-not-dx because I want to always be up for some new project,
-so why not jump into it right ? 
+Hello, I’m Anthony
 
-✨✨✨✨✨✨✨✨✨✨✨✨✨
-
-🀄 I started coding for fun after getting into basic VBA for work. I naturally got into Python for the simplicity of it and for its ability to script and handle data for my job. 
-I'm focusing data management with SQL and python modules like Pandas and Numpy for now 
-But I don't want to limit myself to that so I keep an eye on HTML, Java and C++ so I can work on bigger projects soon. 
-
-🀄 I would obviously love to make a job out of it one day, but let's keep it simple for now ! 
-
-✨✨✨✨✨✨✨✨✨✨✨✨✨
-
-I can't wait to learn some more...
+I started coding for fun, and I learn by myself, only in Python for now. I'm into data and back end dev but I want to make complete projects so I also do some front end (just a little bit)
+I'm currently working on various Django projects to deploy online. I want to get better with APIs and deployment processes.
+I'm currently working on a fun website where users can vote on clothing articles. The next project will be a data visualisation website using ourworldindata.org as a reference.
